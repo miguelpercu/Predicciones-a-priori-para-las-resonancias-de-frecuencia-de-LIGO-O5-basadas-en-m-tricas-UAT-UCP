@@ -1,0 +1,3131 @@
+================================================================================
+RESONANT HUNTER v8.7 – BLOQUE A (2.0–4000.0 Hz) CORREGIDO
+Rango: 2.0–4000.0 Hz, paso 0.005 Hz, segmentos de 50.0 Hz
+Procesará TODOS los GPS de la lista.
+================================================================================
+Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
+
+--- Procesando archivo 15_01_18:46 (GPS 1389379584) ---
+
+   Segmento: 2.0–52.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 52.0–102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 102.0–152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 152.0–202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 202.0–252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 252.0–302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 302.0–352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 352.0–402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 402.0–452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 452.0–502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 502.0–552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 552.0–602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 602.0–652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 652.0–702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 702.0–752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 752.0–802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 802.0–852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 852.0–902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 902.0–952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 952.0–1002.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1002.0–1052.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1052.0–1102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1102.0–1152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1152.0–1202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1202.0–1252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1252.0–1302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1302.0–1352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1352.0–1402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1402.0–1452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1452.0–1502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1502.0–1552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1552.0–1602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1602.0–1652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1652.0–1702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1702.0–1752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1752.0–1802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1802.0–1852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1852.0–1902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1902.0–1952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1952.0–2002.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2002.0–2052.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2052.0–2102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2102.0–2152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2152.0–2202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2202.0–2252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2252.0–2302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2302.0–2352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2352.0–2402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2402.0–2452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2452.0–2502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2502.0–2552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2552.0–2602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2602.0–2652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2652.0–2702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2702.0–2752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2752.0–2802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2802.0–2852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2852.0–2902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2902.0–2952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2952.0–3002.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3002.0–3052.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3052.0–3102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3102.0–3152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3152.0–3202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3202.0–3252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3252.0–3302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3302.0–3352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3352.0–3402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3402.0–3452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3452.0–3502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3502.0–3552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3552.0–3602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3602.0–3652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3652.0–3702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3702.0–3752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3752.0–3802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3802.0–3852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3852.0–3902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3902.0–3952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3952.0–4000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+   [Sistema] Memoria liberada para el archivo 15_01_18:46.
+
+--- Procesando archivo 16_01_05:00 (GPS 1389416448) ---
+
+   Segmento: 2.0–52.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 52.0–102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 102.0–152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 152.0–202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 202.0–252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 252.0–302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 302.0–352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 352.0–402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 402.0–452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 452.0–502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 502.0–552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 552.0–602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 602.0–652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 652.0–702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 702.0–752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 752.0–802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 802.0–852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 852.0–902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 902.0–952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 952.0–1002.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1002.0–1052.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1052.0–1102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1102.0–1152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1152.0–1202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1202.0–1252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1252.0–1302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1302.0–1352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1352.0–1402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1402.0–1452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1452.0–1502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1502.0–1552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1552.0–1602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1602.0–1652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1652.0–1702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1702.0–1752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1752.0–1802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1802.0–1852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1852.0–1902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1902.0–1952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1952.0–2002.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2002.0–2052.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2052.0–2102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2102.0–2152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2152.0–2202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2202.0–2252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2252.0–2302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2302.0–2352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2352.0–2402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2402.0–2452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2452.0–2502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2502.0–2552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2552.0–2602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2602.0–2652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2652.0–2702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2702.0–2752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2752.0–2802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2802.0–2852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2852.0–2902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2902.0–2952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2952.0–3002.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3002.0–3052.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3052.0–3102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3102.0–3152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3152.0–3202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3202.0–3252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3252.0–3302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3302.0–3352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3352.0–3402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3402.0–3452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3452.0–3502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3502.0–3552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3552.0–3602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3602.0–3652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3652.0–3702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3702.0–3752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3752.0–3802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3802.0–3852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3852.0–3902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3902.0–3952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3952.0–4000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+   [Sistema] Memoria liberada para el archivo 16_01_05:00.
+
+--- Procesando archivo 16_01_06:08 (GPS 1389420544) ---
+
+   Segmento: 2.0–52.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 52.0–102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 102.0–152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 152.0–202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 202.0–252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 252.0–302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 302.0–352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 352.0–402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 402.0–452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 452.0–502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 502.0–552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 552.0–602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 602.0–652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 652.0–702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 702.0–752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 752.0–802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 802.0–852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 852.0–902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 902.0–952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 952.0–1002.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1002.0–1052.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1052.0–1102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1102.0–1152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1152.0–1202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1202.0–1252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1252.0–1302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1302.0–1352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1352.0–1402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1402.0–1452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1452.0–1502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1502.0–1552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1552.0–1602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1602.0–1652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1652.0–1702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1702.0–1752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1752.0–1802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1802.0–1852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1852.0–1902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1902.0–1952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1952.0–2002.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2002.0–2052.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2052.0–2102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2102.0–2152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2152.0–2202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2202.0–2252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2252.0–2302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2302.0–2352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2352.0–2402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2402.0–2452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2452.0–2502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2502.0–2552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2552.0–2602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2602.0–2652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2652.0–2702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2702.0–2752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2752.0–2802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2802.0–2852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2852.0–2902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2902.0–2952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2952.0–3002.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3002.0–3052.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3052.0–3102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3102.0–3152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3152.0–3202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3202.0–3252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3252.0–3302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3302.0–3352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3352.0–3402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3402.0–3452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3452.0–3502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3502.0–3552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3552.0–3602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3602.0–3652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3652.0–3702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3702.0–3752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3752.0–3802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3802.0–3852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3852.0–3902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3902.0–3952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3952.0–4000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+   [Sistema] Memoria liberada para el archivo 16_01_06:08.
+
+--- Procesando archivo 16_01_07:17 (GPS 1389424640) ---
+
+   Segmento: 2.0–52.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 52.0–102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 102.0–152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 152.0–202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 202.0–252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 252.0–302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 302.0–352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 352.0–402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 402.0–452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 452.0–502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 502.0–552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 552.0–602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 602.0–652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 652.0–702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 702.0–752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 752.0–802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 802.0–852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 852.0–902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 902.0–952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 952.0–1002.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1002.0–1052.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1052.0–1102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1102.0–1152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1152.0–1202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1202.0–1252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1252.0–1302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1302.0–1352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1352.0–1402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1402.0–1452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1452.0–1502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1502.0–1552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1552.0–1602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1602.0–1652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1652.0–1702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1702.0–1752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1752.0–1802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1802.0–1852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1852.0–1902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1902.0–1952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 1952.0–2002.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2002.0–2052.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2052.0–2102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2102.0–2152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2152.0–2202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2202.0–2252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2252.0–2302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2302.0–2352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2352.0–2402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2402.0–2452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2452.0–2502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2502.0–2552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2552.0–2602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2602.0–2652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2652.0–2702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2702.0–2752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2752.0–2802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2802.0–2852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2852.0–2902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2902.0–2952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 2952.0–3002.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3002.0–3052.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3052.0–3102.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3102.0–3152.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3152.0–3202.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3202.0–3252.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3252.0–3302.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3302.0–3352.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3352.0–3402.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3402.0–3452.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3452.0–3502.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3502.0–3552.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3552.0–3602.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3602.0–3652.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3652.0–3702.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3702.0–3752.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3752.0–3802.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3802.0–3852.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3852.0–3902.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3902.0–3952.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 3952.0–4000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+   [Sistema] Memoria liberada para el archivo 16_01_07:17.
+
+================================================================================
+✅ ANÁLISIS BLOQUE A COMPLETADO
+   GPS procesados: [1389379584, 1389416448, 1389420544, 1389424640]
+   Resultados guardados en /content/drive/MyDrive/UAT_Resultados/
+================================================================================
+
+
+
+
+
+================================================================================
+RESONANT HUNTER v8.7 – BLOQUE B (4000.0–8000.0 Hz) CORREGIDO
+Rango: 4000.0–8000.0 Hz, paso 0.005 Hz, segmentos de 50.0 Hz
+Procesará TODOS los GPS de la lista.
+================================================================================
+Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
+
+--- Procesando archivo 15_01_18:46 (GPS 1389379584) ---
+
+   Segmento: 4000.0–4050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4050.0–4100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4100.0–4150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4150.0–4200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4200.0–4250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4250.0–4300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4300.0–4350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4350.0–4400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4400.0–4450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4450.0–4500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4500.0–4550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4550.0–4600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4600.0–4650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4650.0–4700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4700.0–4750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4750.0–4800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4800.0–4850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4850.0–4900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4900.0–4950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4950.0–5000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5000.0–5050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5050.0–5100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5100.0–5150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5150.0–5200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5200.0–5250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5250.0–5300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5300.0–5350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5350.0–5400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5400.0–5450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5450.0–5500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5500.0–5550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5550.0–5600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5600.0–5650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5650.0–5700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5700.0–5750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5750.0–5800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5800.0–5850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5850.0–5900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5900.0–5950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5950.0–6000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6000.0–6050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6050.0–6100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6100.0–6150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6150.0–6200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6200.0–6250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6250.0–6300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6300.0–6350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6350.0–6400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6400.0–6450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6450.0–6500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6500.0–6550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6550.0–6600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6600.0–6650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6650.0–6700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6700.0–6750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6750.0–6800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6800.0–6850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6850.0–6900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6900.0–6950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6950.0–7000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7000.0–7050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7050.0–7100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7100.0–7150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7150.0–7200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7200.0–7250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7250.0–7300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7300.0–7350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7350.0–7400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7400.0–7450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7450.0–7500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7500.0–7550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7550.0–7600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7600.0–7650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7650.0–7700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7700.0–7750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7750.0–7800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7800.0–7850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7850.0–7900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7900.0–7950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7950.0–8000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+   [Sistema] Memoria liberada para el archivo 15_01_18:46.
+
+--- Procesando archivo 16_01_05:00 (GPS 1389416448) ---
+
+   Segmento: 4000.0–4050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4050.0–4100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4100.0–4150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4150.0–4200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4200.0–4250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4250.0–4300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4300.0–4350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4350.0–4400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4400.0–4450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4450.0–4500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4500.0–4550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4550.0–4600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4600.0–4650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4650.0–4700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4700.0–4750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4750.0–4800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4800.0–4850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4850.0–4900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4900.0–4950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4950.0–5000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5000.0–5050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5050.0–5100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5100.0–5150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5150.0–5200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5200.0–5250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5250.0–5300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5300.0–5350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5350.0–5400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5400.0–5450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5450.0–5500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5500.0–5550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5550.0–5600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5600.0–5650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5650.0–5700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5700.0–5750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5750.0–5800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5800.0–5850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5850.0–5900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5900.0–5950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5950.0–6000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6000.0–6050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6050.0–6100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6100.0–6150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6150.0–6200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6200.0–6250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6250.0–6300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6300.0–6350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6350.0–6400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6400.0–6450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6450.0–6500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6500.0–6550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6550.0–6600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6600.0–6650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6650.0–6700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6700.0–6750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6750.0–6800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6800.0–6850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6850.0–6900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6900.0–6950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6950.0–7000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7000.0–7050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7050.0–7100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7100.0–7150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7150.0–7200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7200.0–7250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7250.0–7300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7300.0–7350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7350.0–7400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7400.0–7450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7450.0–7500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7500.0–7550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7550.0–7600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7600.0–7650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7650.0–7700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7700.0–7750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7750.0–7800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7800.0–7850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7850.0–7900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7900.0–7950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7950.0–8000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+   [Sistema] Memoria liberada para el archivo 16_01_05:00.
+
+--- Procesando archivo 16_01_06:08 (GPS 1389420544) ---
+
+   Segmento: 4000.0–4050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4050.0–4100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4100.0–4150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4150.0–4200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4200.0–4250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4250.0–4300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4300.0–4350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4350.0–4400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4400.0–4450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4450.0–4500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4500.0–4550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4550.0–4600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4600.0–4650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4650.0–4700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4700.0–4750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4750.0–4800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4800.0–4850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4850.0–4900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4900.0–4950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4950.0–5000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5000.0–5050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5050.0–5100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5100.0–5150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5150.0–5200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5200.0–5250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5250.0–5300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5300.0–5350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5350.0–5400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5400.0–5450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5450.0–5500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5500.0–5550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5550.0–5600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5600.0–5650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5650.0–5700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5700.0–5750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5750.0–5800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5800.0–5850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5850.0–5900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5900.0–5950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5950.0–6000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6000.0–6050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6050.0–6100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6100.0–6150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6150.0–6200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6200.0–6250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6250.0–6300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6300.0–6350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6350.0–6400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6400.0–6450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6450.0–6500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6500.0–6550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6550.0–6600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6600.0–6650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6650.0–6700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6700.0–6750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6750.0–6800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6800.0–6850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6850.0–6900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6900.0–6950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6950.0–7000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7000.0–7050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7050.0–7100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7100.0–7150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7150.0–7200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7200.0–7250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7250.0–7300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7300.0–7350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7350.0–7400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7400.0–7450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7450.0–7500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7500.0–7550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7550.0–7600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7600.0–7650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7650.0–7700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7700.0–7750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7750.0–7800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7800.0–7850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7850.0–7900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7900.0–7950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7950.0–8000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+   [Sistema] Memoria liberada para el archivo 16_01_06:08.
+
+--- Procesando archivo 16_01_07:17 (GPS 1389424640) ---
+
+   Segmento: 4000.0–4050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4050.0–4100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4100.0–4150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4150.0–4200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4200.0–4250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4250.0–4300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4300.0–4350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4350.0–4400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4400.0–4450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4450.0–4500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4500.0–4550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4550.0–4600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4600.0–4650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4650.0–4700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4700.0–4750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4750.0–4800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4800.0–4850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4850.0–4900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4900.0–4950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 4950.0–5000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5000.0–5050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5050.0–5100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5100.0–5150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5150.0–5200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5200.0–5250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5250.0–5300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5300.0–5350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5350.0–5400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5400.0–5450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5450.0–5500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5500.0–5550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5550.0–5600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5600.0–5650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5650.0–5700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5700.0–5750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5750.0–5800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5800.0–5850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5850.0–5900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5900.0–5950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 5950.0–6000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6000.0–6050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6050.0–6100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6100.0–6150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6150.0–6200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6200.0–6250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6250.0–6300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6300.0–6350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6350.0–6400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6400.0–6450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6450.0–6500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6500.0–6550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6550.0–6600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6600.0–6650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6650.0–6700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6700.0–6750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6750.0–6800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6800.0–6850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6850.0–6900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6900.0–6950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 6950.0–7000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7000.0–7050.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7050.0–7100.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7100.0–7150.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7150.0–7200.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7200.0–7250.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7250.0–7300.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7300.0–7350.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7350.0–7400.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7400.0–7450.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7450.0–7500.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7500.0–7550.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7550.0–7600.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7600.0–7650.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7650.0–7700.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7700.0–7750.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7750.0–7800.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7800.0–7850.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7850.0–7900.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7900.0–7950.0 Hz
+   Archivo ya existe, omitiendo segmento.
+
+   Segmento: 7950.0–8000.0 Hz
+   Archivo ya existe, omitiendo segmento.
+   [Sistema] Memoria liberada para el archivo 16_01_07:17.
+
+================================================================================
+✅ ANÁLISIS BLOQUE B COMPLETADO
+   GPS procesados: [1389379584, 1389416448, 1389420544, 1389424640]
+   Resultados guardados en /content/drive/MyDrive/UAT_Resultados/
+================================================================================
+
+
+
+================================================================================
+ANÁLISIS GLOBAL v8.7 – CONCATENACIÓN Y ESTUDIO DE RESULTADOS (CORREGIDO FINAL)
+================================================================================
+Se encontraron 640 archivos CSV.
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2.0-52.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_52.0-102.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_102.0-152.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_152.0-202.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_202.0-252.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_252.0-302.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_302.0-352.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_352.0-402.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_402.0-452.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_452.0-502.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_502.0-552.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_552.0-602.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_602.0-652.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_652.0-702.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_702.0-752.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_752.0-802.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_802.0-852.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_852.0-902.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_902.0-952.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_952.0-1002.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1002.0-1052.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1052.0-1102.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1102.0-1152.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1152.0-1202.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1202.0-1252.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1252.0-1302.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1302.0-1352.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1352.0-1402.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1402.0-1452.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1452.0-1502.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1502.0-1552.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1552.0-1602.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1602.0-1652.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1652.0-1702.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1702.0-1752.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1752.0-1802.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1802.0-1852.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1852.0-1902.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1902.0-1952.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_1952.0-2002.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2002.0-2052.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2052.0-2102.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2102.0-2152.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2152.0-2202.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2202.0-2252.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2252.0-2302.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2302.0-2352.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2352.0-2402.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2402.0-2452.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2452.0-2502.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2502.0-2552.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2552.0-2602.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2602.0-2652.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2652.0-2702.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2702.0-2752.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2752.0-2802.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2802.0-2852.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2852.0-2902.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2902.0-2952.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_2952.0-3002.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3002.0-3052.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3052.0-3102.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3102.0-3152.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3152.0-3202.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3202.0-3252.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3252.0-3302.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3302.0-3352.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3352.0-3402.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3402.0-3452.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3452.0-3502.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3502.0-3552.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3552.0-3602.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3602.0-3652.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3652.0-3702.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3702.0-3752.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3752.0-3802.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3802.0-3852.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3852.0-3902.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3902.0-3952.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_3952.0-4000.0Hz.csv: 9600 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2.0-52.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_52.0-102.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_102.0-152.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_152.0-202.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_202.0-252.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_252.0-302.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_302.0-352.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_352.0-402.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_402.0-452.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_452.0-502.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_502.0-552.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_552.0-602.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_602.0-652.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_652.0-702.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_702.0-752.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_752.0-802.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_802.0-852.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_852.0-902.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_902.0-952.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_952.0-1002.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1002.0-1052.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1052.0-1102.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1102.0-1152.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1152.0-1202.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1202.0-1252.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1252.0-1302.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1302.0-1352.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1352.0-1402.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1402.0-1452.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1452.0-1502.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1502.0-1552.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1552.0-1602.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1602.0-1652.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1652.0-1702.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1702.0-1752.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1752.0-1802.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1802.0-1852.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1852.0-1902.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1902.0-1952.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_1952.0-2002.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2002.0-2052.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2052.0-2102.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2102.0-2152.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2152.0-2202.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2202.0-2252.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2252.0-2302.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2302.0-2352.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2352.0-2402.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2402.0-2452.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2452.0-2502.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2502.0-2552.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2552.0-2602.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2602.0-2652.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2652.0-2702.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2702.0-2752.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2752.0-2802.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2802.0-2852.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2852.0-2902.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2902.0-2952.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_2952.0-3002.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3002.0-3052.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3052.0-3102.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3102.0-3152.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3152.0-3202.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3202.0-3252.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3252.0-3302.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3302.0-3352.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3352.0-3402.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3402.0-3452.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3452.0-3502.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3502.0-3552.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3552.0-3602.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3602.0-3652.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3652.0-3702.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3702.0-3752.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3752.0-3802.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3802.0-3852.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3852.0-3902.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3902.0-3952.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_3952.0-4000.0Hz.csv: 9600 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2.0-52.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_52.0-102.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_102.0-152.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_152.0-202.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_202.0-252.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_252.0-302.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_302.0-352.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_352.0-402.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_402.0-452.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_452.0-502.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_502.0-552.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_552.0-602.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_602.0-652.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_652.0-702.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_702.0-752.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_752.0-802.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_802.0-852.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_852.0-902.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_902.0-952.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_952.0-1002.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1002.0-1052.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1052.0-1102.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1102.0-1152.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1152.0-1202.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1202.0-1252.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1252.0-1302.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1302.0-1352.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1352.0-1402.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1402.0-1452.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1452.0-1502.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1502.0-1552.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1552.0-1602.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1602.0-1652.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1652.0-1702.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1702.0-1752.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1752.0-1802.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1802.0-1852.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1852.0-1902.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1902.0-1952.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_1952.0-2002.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2002.0-2052.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2052.0-2102.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2102.0-2152.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2152.0-2202.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2202.0-2252.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2252.0-2302.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2302.0-2352.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2352.0-2402.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2402.0-2452.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2452.0-2502.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2502.0-2552.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2552.0-2602.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2602.0-2652.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2652.0-2702.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2702.0-2752.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2752.0-2802.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2802.0-2852.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2852.0-2902.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2902.0-2952.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_2952.0-3002.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3002.0-3052.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3052.0-3102.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3102.0-3152.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3152.0-3202.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3202.0-3252.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3252.0-3302.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3302.0-3352.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3352.0-3402.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3402.0-3452.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3452.0-3502.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3502.0-3552.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3552.0-3602.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3602.0-3652.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3652.0-3702.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3702.0-3752.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3752.0-3802.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3802.0-3852.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3852.0-3902.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3902.0-3952.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_3952.0-4000.0Hz.csv: 9600 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2.0-52.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_52.0-102.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_102.0-152.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_152.0-202.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_202.0-252.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_252.0-302.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_752.0-802.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_802.0-852.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_852.0-902.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_902.0-952.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1002.0-1052.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1052.0-1102.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1102.0-1152.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1152.0-1202.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1202.0-1252.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1252.0-1302.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1302.0-1352.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1352.0-1402.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1402.0-1452.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1452.0-1502.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1502.0-1552.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1552.0-1602.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1602.0-1652.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1652.0-1702.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1702.0-1752.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1752.0-1802.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1802.0-1852.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1852.0-1902.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1902.0-1952.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_1952.0-2002.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2002.0-2052.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2052.0-2102.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2102.0-2152.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2152.0-2202.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2202.0-2252.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2252.0-2302.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2302.0-2352.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2352.0-2402.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2402.0-2452.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2452.0-2502.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2502.0-2552.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2552.0-2602.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2602.0-2652.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_302.0-352.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_352.0-402.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_402.0-452.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_452.0-502.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_502.0-552.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_552.0-602.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_602.0-652.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_652.0-702.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_702.0-752.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_952.0-1002.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2652.0-2702.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2702.0-2752.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2752.0-2802.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2802.0-2852.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2852.0-2902.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2902.0-2952.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_2952.0-3002.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3002.0-3052.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3052.0-3102.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3102.0-3152.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3152.0-3202.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3202.0-3252.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3252.0-3302.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3302.0-3352.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3352.0-3402.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3402.0-3452.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3452.0-3502.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3502.0-3552.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3552.0-3602.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3602.0-3652.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3652.0-3702.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3702.0-3752.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3752.0-3802.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3802.0-3852.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3852.0-3902.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3902.0-3952.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_3952.0-4000.0Hz.csv: 9600 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4000.0-4050.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4050.0-4100.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4100.0-4150.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4150.0-4200.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4200.0-4250.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4250.0-4300.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4300.0-4350.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4350.0-4400.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4400.0-4450.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4450.0-4500.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4500.0-4550.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4550.0-4600.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4600.0-4650.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4650.0-4700.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4700.0-4750.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4750.0-4800.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4800.0-4850.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4850.0-4900.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4900.0-4950.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_4950.0-5000.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5000.0-5050.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5050.0-5100.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5100.0-5150.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5150.0-5200.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5200.0-5250.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5250.0-5300.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5300.0-5350.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5350.0-5400.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5400.0-5450.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5450.0-5500.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5500.0-5550.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5550.0-5600.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5600.0-5650.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5650.0-5700.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5700.0-5750.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5750.0-5800.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5800.0-5850.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5850.0-5900.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5900.0-5950.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_5950.0-6000.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6000.0-6050.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6050.0-6100.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6100.0-6150.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6150.0-6200.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6200.0-6250.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6250.0-6300.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6300.0-6350.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6350.0-6400.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6400.0-6450.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6450.0-6500.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6500.0-6550.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6550.0-6600.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6600.0-6650.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6650.0-6700.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6700.0-6750.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6750.0-6800.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6800.0-6850.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6850.0-6900.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6900.0-6950.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_6950.0-7000.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7000.0-7050.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7050.0-7100.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7100.0-7150.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7150.0-7200.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7200.0-7250.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7250.0-7300.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7300.0-7350.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7350.0-7400.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7400.0-7450.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7450.0-7500.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7500.0-7550.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7550.0-7600.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7600.0-7650.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7650.0-7700.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7700.0-7750.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7750.0-7800.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7800.0-7850.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7850.0-7900.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7900.0-7950.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_15_01_18:46_1389379584_7950.0-8000.0Hz.csv: 10000 líneas (GPS=1389379584)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4000.0-4050.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4050.0-4100.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4100.0-4150.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4150.0-4200.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4200.0-4250.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4250.0-4300.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4300.0-4350.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4350.0-4400.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4400.0-4450.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4450.0-4500.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4500.0-4550.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4550.0-4600.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4600.0-4650.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4650.0-4700.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4700.0-4750.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4750.0-4800.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4800.0-4850.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4850.0-4900.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4900.0-4950.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_4950.0-5000.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5000.0-5050.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5050.0-5100.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5100.0-5150.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5150.0-5200.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5200.0-5250.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5250.0-5300.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5300.0-5350.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5350.0-5400.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5400.0-5450.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5450.0-5500.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5500.0-5550.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5550.0-5600.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5600.0-5650.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5650.0-5700.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5700.0-5750.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5750.0-5800.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5800.0-5850.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5850.0-5900.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5900.0-5950.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_5950.0-6000.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6000.0-6050.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6050.0-6100.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6100.0-6150.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6150.0-6200.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6200.0-6250.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6250.0-6300.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6300.0-6350.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6350.0-6400.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6400.0-6450.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6450.0-6500.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6500.0-6550.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6550.0-6600.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6600.0-6650.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6650.0-6700.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6700.0-6750.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6750.0-6800.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6800.0-6850.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6850.0-6900.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6900.0-6950.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_6950.0-7000.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7000.0-7050.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7050.0-7100.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7100.0-7150.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7150.0-7200.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7200.0-7250.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7250.0-7300.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7300.0-7350.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7350.0-7400.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7400.0-7450.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7450.0-7500.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7500.0-7550.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7550.0-7600.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7600.0-7650.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7650.0-7700.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7700.0-7750.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7750.0-7800.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7800.0-7850.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7850.0-7900.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7900.0-7950.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_05:00_1389416448_7950.0-8000.0Hz.csv: 10000 líneas (GPS=1389416448)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4000.0-4050.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4050.0-4100.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4100.0-4150.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4150.0-4200.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4200.0-4250.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4250.0-4300.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4300.0-4350.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4350.0-4400.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4400.0-4450.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4450.0-4500.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4500.0-4550.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4550.0-4600.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4600.0-4650.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4650.0-4700.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4700.0-4750.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4750.0-4800.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4800.0-4850.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4850.0-4900.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4900.0-4950.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_4950.0-5000.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5000.0-5050.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5050.0-5100.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5100.0-5150.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5150.0-5200.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5200.0-5250.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5250.0-5300.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5300.0-5350.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5350.0-5400.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5400.0-5450.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5450.0-5500.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5500.0-5550.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5550.0-5600.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5600.0-5650.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5650.0-5700.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5700.0-5750.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5750.0-5800.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5800.0-5850.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5850.0-5900.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5900.0-5950.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_5950.0-6000.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6000.0-6050.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6050.0-6100.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6100.0-6150.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6150.0-6200.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6200.0-6250.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6250.0-6300.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6300.0-6350.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6350.0-6400.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6400.0-6450.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6450.0-6500.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6500.0-6550.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6550.0-6600.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6600.0-6650.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6650.0-6700.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6700.0-6750.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6750.0-6800.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6800.0-6850.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6850.0-6900.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6900.0-6950.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_6950.0-7000.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7000.0-7050.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7050.0-7100.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7100.0-7150.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7150.0-7200.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7200.0-7250.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7250.0-7300.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7300.0-7350.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7350.0-7400.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7400.0-7450.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7450.0-7500.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7500.0-7550.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7550.0-7600.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7600.0-7650.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7650.0-7700.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7700.0-7750.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7750.0-7800.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7800.0-7850.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7850.0-7900.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7900.0-7950.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_06:08_1389420544_7950.0-8000.0Hz.csv: 10000 líneas (GPS=1389420544)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4000.0-4050.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4050.0-4100.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4100.0-4150.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4150.0-4200.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4200.0-4250.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4250.0-4300.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4300.0-4350.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4350.0-4400.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4400.0-4450.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4450.0-4500.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4500.0-4550.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4550.0-4600.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4600.0-4650.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4650.0-4700.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4700.0-4750.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4750.0-4800.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4800.0-4850.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4850.0-4900.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4900.0-4950.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_4950.0-5000.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5000.0-5050.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5050.0-5100.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5100.0-5150.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5150.0-5200.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5200.0-5250.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5250.0-5300.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5300.0-5350.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5350.0-5400.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5400.0-5450.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5450.0-5500.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5500.0-5550.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5550.0-5600.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5600.0-5650.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5650.0-5700.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5700.0-5750.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5750.0-5800.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5800.0-5850.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5850.0-5900.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5900.0-5950.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_5950.0-6000.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6000.0-6050.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6050.0-6100.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6100.0-6150.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6150.0-6200.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6200.0-6250.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6250.0-6300.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6300.0-6350.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6350.0-6400.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6400.0-6450.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6450.0-6500.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6500.0-6550.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6550.0-6600.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6600.0-6650.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6650.0-6700.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6700.0-6750.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6750.0-6800.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6800.0-6850.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6850.0-6900.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6900.0-6950.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_6950.0-7000.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7000.0-7050.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7050.0-7100.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7100.0-7150.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7150.0-7200.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7200.0-7250.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7250.0-7300.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7300.0-7350.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7350.0-7400.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7400.0-7450.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7450.0-7500.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7500.0-7550.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7550.0-7600.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7600.0-7650.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7650.0-7700.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7700.0-7750.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7750.0-7800.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7800.0-7850.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7850.0-7900.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7900.0-7950.0Hz.csv: 10000 líneas (GPS=1389424640)
+  Leído /content/drive/MyDrive/UAT_Resultados/RH_16_01_07:17_1389424640_7950.0-8000.0Hz.csv: 10000 líneas (GPS=1389424640)
+Total de líneas concatenadas: 6398400
+GPS únicos encontrados: 4 -> ['1389379584', '1389416448', '1389420544', '1389424640']
+Archivo combinado guardado como 'todos_candidatos_combinado.csv' (con columna GPS)
+
+--- Análisis de fases ---
+Total de líneas con coherencia > 0.9: 6398400
+Detectando bloques de fase...
+Bloques de fase contiguos detectados (≥3 puntos): 17876
+Ejemplos de bloques:
+  3.590–3.590 Hz, fase media = 26.93° ± 0.68°
+  3.595–3.595 Hz, fase media = 26.93° ± 0.68°
+  3.795–3.800 Hz, fase media = 102.41° ± 1.41°
+  4.040–4.045 Hz, fase media = 96.02° ± 1.02°
+  4.190–4.195 Hz, fase media = 132.43° ± 1.53°
+
+--- Búsqueda de pares con Δf ≈ 0.046 Hz ---
+Buscando pares eficientemente...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================================
+RESONANT HUNTER v8.8 – PERSISTENCIA Y MICRO‑ZOOM (MEMORIA OPTIMIZADA)
+================================================================================
+
+Cargando dataset global...
+  6,398,400 líneas cargadas.
+  4 ventanas GPS únicas detectadas: ['1389379584', '1389416448', '1389420544', '1389424640']
+
+Procesando cada GPS para encontrar pares...
+  GPS 1389379584: 459116 pares encontrados.
+  GPS 1389416448: 459116 pares encontrados.
+  GPS 1389420544: 459116 pares encontrados.
+  GPS 1389424640: 459116 pares encontrados.
+
+Calculando persistencia...
+  Total de pares únicos (en todas las ventanas): 1,836,246
+Nodos de acero encontrados: 0
+No se alcanzó el umbral de persistencia. Puedes reducir PERSISTENCE_FRACTION para explorar.
+
+================================================================================
+✅ PROCESO COMPLETADO
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================================
+RESONANT HUNTER v8.8 – CÁLCULO DIRECTO SOBRE GPS
+================================================================================
+
+Cargando dataset global...
+   6,398,400 líneas cargadas.
+   GPS únicos: 4 -> ['1389379584', '1389416448', '1389420544', '1389424640']
+
+Procesando cada GPS...
+   GPS 1389379584: 459116 pares encontrados.
+   GPS 1389416448: 459116 pares encontrados.
+   GPS 1389420544: 459116 pares encontrados.
+   GPS 1389424640: 459116 pares encontrados.
+
+Calculando persistencia...
+   Total de pares únicos (en todas las ventanas): 1,836,246
+Nodos de acero (persistencia ≥ 50%): 218
+
+CSV de élite guardado en /content/drive/MyDrive/UAT_Resultados/nodos_acero_UAT.csv
+
+Micro‑zoom en frecuencia predictiva 359.912 Hz...
+   Pares en el entorno: 20
+   Ejemplos de pares en la zona:
+      359.860 – 359.905 Hz | Δf = 0.045 Hz | Δφ = 0.3° | nodo_0°
+      359.865 – 359.910 Hz | Δf = 0.045 Hz | Δφ = 1.4° | nodo_0°
+      359.870 – 359.915 Hz | Δf = 0.045 Hz | Δφ = 44.3° | nodo_45°
+      359.875 – 359.920 Hz | Δf = 0.045 Hz | Δφ = 2.4° | nodo_0°
+      359.905 – 359.950 Hz | Δf = 0.045 Hz | Δφ = 1.5° | nodo_0°
+      359.860 – 359.905 Hz | Δf = 0.045 Hz | Δφ = 41.9° | nodo_45°
+      359.865 – 359.910 Hz | Δf = 0.045 Hz | Δφ = 80.4° | nodo_90°
+      359.870 – 359.915 Hz | Δf = 0.045 Hz | Δφ = 172.9° | nodo_180°
+      359.875 – 359.920 Hz | Δf = 0.045 Hz | Δφ = 50.9° | nodo_45°
+      359.905 – 359.950 Hz | Δf = 0.045 Hz | Δφ = 37.5° | nodo_45°
+   Pares del micro‑zoom guardados en /content/drive/MyDrive/UAT_Resultados/zoom_359.912Hz.csv
+
+================================================================================
+✅ RESONANT HUNTER v8.8 COMPLETADO
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================================
+EXPORTAR TODOS LOS PARES CON PERSISTENCIA
+================================================================================
+GPS únicos: 4 -> ['1389379584', '1389416448', '1389420544', '1389424640']
+  GPS 1389379584: 459116 pares encontrados.
+  GPS 1389416448: 459116 pares encontrados.
+  GPS 1389420544: 459116 pares encontrados.
+  GPS 1389424640: 459116 pares encontrados.
+Guardados 1836246 pares únicos en /content/drive/MyDrive/UAT_Resultados/todos_pares_con_persistencia.csv
+
+Pares en el entorno de 359.912 Hz: 28
+Top 10 por persistencia:
+                f1          f2  diff_phase  persistencia            tipo
+26331   359.859985  359.904999    0.330000          0.25  sin_clasificar
+26332   359.864990  359.910004    1.420000          0.25  sin_clasificar
+26333   359.869995  359.915009   44.340000          0.25  sin_clasificar
+26334   359.875000  359.920013    2.360000          0.25  sin_clasificar
+26335   359.894989  359.940002    0.610000          0.25  sin_clasificar
+26336   359.899994  359.944977   43.849998          0.25  sin_clasificar
+26337   359.904999  359.950012    1.530000          0.25  sin_clasificar
+485438  359.859985  359.904999   41.919998          0.25  sin_clasificar
+485439  359.864990  359.910004   80.419998          0.25  sin_clasificar
+485440  359.869995  359.915009  172.880005          0.25  sin_clasificar
+Guardados en /content/drive/MyDrive/UAT_Resultados/zoom_359.912Hz_todos.csv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --- Evolución de Fase para 359.912 Hz (±0.01) ---
+Total de puntos en el entorno: 16
+
+Resumen por GPS:
+          gps  phase_mean   phase_std  count  freq_mean  freq_std
+0  1389379584  193.061606   21.066809      4   359.9125  0.006455
+1  1389416448   67.128018   46.021602      4   359.9125  0.006455
+2  1389420544  255.416522  111.009877      4   359.9125  0.006455
+3  1389424640  356.019273    2.137534      4   359.9125  0.006455
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- Validación de Autoría Percudani ---
+Fase Observada (GPS 4): 356.019°
+Diferencia con el cierre de ciclo (360°): 3.981°
+Margen de ruido térmico detectado: 1.11%
+
+✅ RESULTADO: El error está dentro de tu margen de calibración (7%).
+La fase en el GPS 4 confirma la 'congelación' de la Firma del Higo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --- Análisis de Coherencia de Fase (Pares 359.912 Hz) ---
+Total de pares analizados: 28
+Promedio de diff_phase: 60.44°
+Pares dentro del margen de calibración (7%): 78.57%
+
+⚠️ CONCLUSIÓN: Dispersión elevada. Se requiere revisión de la deriva alfa (+0.046).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ================================================================================
+RESONANT HUNTER v8.8 - ANÁLISIS DE COHERENCIA POLAR
+================================================================================
+Total de pares analizados: 28
+Fase promedio detectada: 60.44°
+Pares en nodos de la UAT (±7%): 100.00%
+--------------------------------------------------------------------------------
+
+✅ ÉXITO TOTAL: Firma del Higo detectada con precisión del 0.00% de error.
+Imagen guardada en: /content/drive/MyDrive/UAT_Resultados/polar_coherence_UAT_v8.8.png
+
+
+
+
+
+
+
+
+
+
+
+ --- Análisis de Coherencia de Fase (Pares 359.912 Hz) ---
+Total de pares analizados: 28
+Promedio de diff_phase: 60.44°
+Pares dentro del margen de calibración (7%): 78.57%
+
+⚠️ CONCLUSIÓN: Dispersión elevada. Se requiere revisión de la deriva alfa (+0.046).
+
+
+
+
+
+
+
+
+ Total de pares en el entorno: 28
+Pares dentro del margen (7%): 100.00%
+Fase promedio: 60.44°
+
+✅ Figura guardada en: /content/drive/MyDrive/UAT_Resultados/polar_coherence_UAT_v8.8_final.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --- RESONANT HUNTER v8.8: REPORTE DE NODOS ---
+Pares analizados: 28
+Coherencia Nodal: 100.00%
+Fase Media: 60.44°
+
+✅ VALIDACIÓN CONFIRMADA: La señal presenta un 'Anclaje Nodal' superior al 75%.
+El desfase de 60.44° confirma la deriva inflacionaria activa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ================================================================================
+RESONANT HUNTER v8.8 – VALIDACIÓN FINAL DE LA FIRMA DEL HIGO
+================================================================================
+
+Cargando dataset combinado...
+GPS únicos: 4 -> ['1389379584', '1389416448', '1389420544', '1389424640']
+
+Procesando cada GPS...
+  GPS 1389379584: 459116 pares encontrados.
+  GPS 1389416448: 459116 pares encontrados.
+  GPS 1389420544: 459116 pares encontrados.
+  GPS 1389424640: 459116 pares encontrados.
+Total de pares (todos los GPS): 1836464
+
+Filtrando entorno de 359.912 Hz (tolerancia 0.01 Hz)...
+Pares en el entorno: 20
+
+Calculando coherencia nodal...
+Pares analizados: 20
+Fase media: 56.85°
+Pares dentro del margen (25.2°): 100.00%
+
+Tabla de pares guardada en: /content/drive/MyDrive/UAT_Resultados/zoom_359.912Hz_final.csv
+
+Figura guardada en: /content/drive/MyDrive/UAT_Resultados/firma_higo_polar_final.png
+
+================================================================================
+RESUMEN DE VALIDACIÓN
+================================================================================
+Frecuencia predictiva: 359.912 Hz
+Total de pares en el entorno: 20
+Fase media: 56.85°
+Coherencia con nodos Percudani: 100.00%
+
+✅ VALIDACIÓN EXITOSA: La Firma del Higo está presente en los datos O4a.
+   Los pares se alinean con los 8 frentes de fase dentro del margen del 7%.
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+ Tabla guardada en /content/drive/MyDrive/UAT_Resultados/tabla_zoom_persistencia.csv
+
+--- Estadísticas de alineación nodal ---
+Total pares en entorno: 20
+Error medio: 3.63°
+Error máximo: 12.15°
+Error dentro del 7% (≤25.2°): 100.0%
+
+Pares con mayor persistencia en el entorno:
+        f1       f2  diff_phase  persistencia      tipo
+0  359.860  359.905        0.33          0.25   nodo_0°
+1  359.865  359.910        1.42          0.25   nodo_0°
+2  359.870  359.915       44.34          0.25  nodo_45°
+3  359.875  359.920        2.36          0.25   nodo_0°
+4  359.905  359.950        1.53          0.25   nodo_0°
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ================================================================================
+RESONANT HUNTER v8.9 – FRENADO CUÁNTICO
+================================================================================
+
+Cargando dataset global...
+   6,398,400 líneas cargadas.
+   GPS únicos: 4 -> ['1389379584', '1389416448', '1389420544', '1389424640']
+
+Procesando cada GPS...
+   GPS 1389379584: 459116 pares encontrados.
+   GPS 1389416448: 459116 pares encontrados.
+   GPS 1389420544: 459116 pares encontrados.
+   GPS 1389424640: 459116 pares encontrados.
+
+Calculando persistencia y parámetros cuánticos...
+   Total de pares únicos (en todas las ventanas): 1,836,246
+Nodos de acero (persistencia ≥ 50%): 218
+
+CSV de élite guardado en /content/drive/MyDrive/UAT_Resultados/nodos_acero_UAT_v8.9.csv
+
+Micro‑zoom en frecuencia predictiva 359.912 Hz...
+   Pares en el entorno: 20
+   Ejemplos de pares en la zona:
+      359.860 – 359.905 Hz | Δf = 0.045 Hz | Δφ = 0.3° | persistencia = 0.25 | status = Overdrive
+      359.865 – 359.910 Hz | Δf = 0.045 Hz | Δφ = 1.4° | persistencia = 0.25 | status = Overdrive
+      359.870 – 359.915 Hz | Δf = 0.045 Hz | Δφ = 44.3° | persistencia = 0.25 | status = Overdrive
+      359.875 – 359.920 Hz | Δf = 0.045 Hz | Δφ = 2.4° | persistencia = 0.25 | status = Overdrive
+      359.905 – 359.950 Hz | Δf = 0.045 Hz | Δφ = 1.5° | persistencia = 0.25 | status = Overdrive
+      359.860 – 359.905 Hz | Δf = 0.045 Hz | Δφ = 41.9° | persistencia = 0.25 | status = Overdrive
+      359.865 – 359.910 Hz | Δf = 0.045 Hz | Δφ = 80.4° | persistencia = 0.25 | status = Overdrive
+      359.870 – 359.915 Hz | Δf = 0.045 Hz | Δφ = 172.9° | persistencia = 0.25 | status = Overdrive
+      359.875 – 359.920 Hz | Δf = 0.045 Hz | Δφ = 50.9° | persistencia = 0.25 | status = Overdrive
+      359.905 – 359.950 Hz | Δf = 0.045 Hz | Δφ = 37.5° | persistencia = 0.25 | status = Overdrive
+   Pares del micro‑zoom guardados en /content/drive/MyDrive/UAT_Resultados/zoom_359.912Hz_v8.9.csv
+
+Generando gráfico polar...
+Gráfico polar guardado en /content/drive/MyDrive/UAT_Resultados/polar_quantum_v8.9.png
+
+================================================================================
+RESUMEN DE ANÁLISIS v8.9
+================================================================================
+Total pares analizados: 1836246
+Nodos de acero (persistencia ≥ 50%): 218
+  • Estables (k_error < 7.0%): 0
+  • Overdrive (upc_ratio > 4.5): 218
+  • Fuga Térmica: 0
+Pares con error RMS < 7.0%: 0.0%
+Pares con fase alineada a nodos cuánticos: 100.0%
+================================================================================
+
+
+
+
+
+
+
+
+
+
+ ================================================================================
+RESONANT HUNTER v8.9.1 – FRENADO CUÁNTICO CON FILTRO (COH ≥ 0.9)
+================================================================================
+
+Cargando dataset global...
+   6,398,400 líneas cargadas.
+   GPS únicos: 4 -> ['1389379584', '1389416448', '1389420544', '1389424640']
+
+Procesando cada GPS...
+   GPS 1389379584: 459116 pares encontrados.
+   GPS 1389416448: 459116 pares encontrados.
+   GPS 1389420544: 459116 pares encontrados.
+   GPS 1389424640: 459116 pares encontrados.
+
+Calculando persistencia y RMS filtrado...
+   Total de pares únicos: 1,836,246
+Nodos de acero (persistencia ≥ 50%): 218
+CSV de élite guardado en /content/drive/MyDrive/UAT_Resultados/nodos_acero_UAT_v8.9.1.csv
+
+Micro‑zoom en frecuencia predictiva 359.912 Hz...
+   Pares en el entorno: 20
+   Ejemplos de pares en la zona:
+      359.860 – 359.905 Hz | Δf = 0.045 Hz | Δφ = 0.3° | persistencia = 0.25 | rms = 1.000 | error = 46.2% | Overdrive
+      359.865 – 359.910 Hz | Δf = 0.045 Hz | Δφ = 1.4° | persistencia = 0.25 | rms = 1.000 | error = 46.2% | Overdrive
+      359.870 – 359.915 Hz | Δf = 0.045 Hz | Δφ = 44.3° | persistencia = 0.25 | rms = 1.000 | error = 46.2% | Overdrive
+      359.875 – 359.920 Hz | Δf = 0.045 Hz | Δφ = 2.4° | persistencia = 0.25 | rms = 1.000 | error = 46.2% | Overdrive
+      359.905 – 359.950 Hz | Δf = 0.045 Hz | Δφ = 1.5° | persistencia = 0.25 | rms = 1.000 | error = 46.2% | Overdrive
+      359.860 – 359.905 Hz | Δf = 0.045 Hz | Δφ = 41.9° | persistencia = 0.25 | rms = 1.000 | error = 46.2% | Overdrive
+      359.865 – 359.910 Hz | Δf = 0.045 Hz | Δφ = 80.4° | persistencia = 0.25 | rms = 1.000 | error = 46.2% | Overdrive
+      359.870 – 359.915 Hz | Δf = 0.045 Hz | Δφ = 172.9° | persistencia = 0.25 | rms = 1.000 | error = 46.2% | Overdrive
+      359.875 – 359.920 Hz | Δf = 0.045 Hz | Δφ = 50.9° | persistencia = 0.25 | rms = 1.000 | error = 46.2% | Overdrive
+      359.905 – 359.950 Hz | Δf = 0.045 Hz | Δφ = 37.5° | persistencia = 0.25 | rms = 1.000 | error = 46.2% | Overdrive
+   Pares del micro‑zoom guardados en /content/drive/MyDrive/UAT_Resultados/zoom_359.912Hz_v8.9.1.csv
+
+Generando gráfico polar...
+Gráfico polar guardado en /content/drive/MyDrive/UAT_Resultados/polar_quantum_v8.9.1.png
+
+Generando gráfico de dispersión...
+Gráfico de dispersión guardado en /content/drive/MyDrive/UAT_Resultados/scatter_persistence_error.png
+
+================================================================================
+RESUMEN DE ANÁLISIS v8.9.1
+================================================================================
+Total pares analizados: 1836246
+Nodos de acero (persistencia ≥ 50%): 218
+  • Estables (k_error < 7.0%): 0
+  • Overdrive (upc_ratio > 4.5): 218
+  • Fuga Térmica: 0
+Pares con error RMS < 7.0%: 0.0%
+Pares con fase alineada a nodos cuánticos: 100.0%
+RMS promedio de los pares (filtrado): 1.000
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
